@@ -95,7 +95,9 @@ footer nav {
   color: white;
   height: 300px;
   text-align: center;
+  justify-content: center;
   margin-top: 15px;
+  flex-direction: column;
 }
 
 .lead .story-image {
